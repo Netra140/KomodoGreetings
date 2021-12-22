@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i++qWL+Zfz9wQPH2qJT2q6xraqm6o4N1KkiFPSO7ERmv8ocZIpuW/gdVg2vrawR/Po8IS8icjgdEdt7nViclYg==",
+  "dgSpecHash": "MjQlUFb8SrkV+A675sSOakZN0/0g+cTVh/0m+s4ic8TloYUckrIkYGi+a/ce7FcPoPCfOIbMrcWqEsinwE5ocg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ethan\\source\\repos\\KomodoGreedings\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\Ethan\\source\\repos\\KomodoGreetings\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ethan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Ethan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ethan\\source\\repos\\KomodoGreedings\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Ethan\\source\\repos\\KomodoGreetings\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\Ethan\\source\\repos\\KomodoGreedings\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\Ethan\\source\\repos\\KomodoGreetings\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Ethan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ethan\\source\\repos\\KomodoGreedings\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\Ethan\\source\\repos\\KomodoGreetings\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
