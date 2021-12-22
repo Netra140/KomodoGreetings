@@ -1,0 +1,10 @@
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\bin\Debug\Repository.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\bin\Debug\Repository.pdb
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Ethan\source\repos\KomodoGreedings\ConsoleUI\obj\Debug\ConsoleUI.pdb

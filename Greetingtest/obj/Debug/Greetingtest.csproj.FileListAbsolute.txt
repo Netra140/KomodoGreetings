@@ -1,0 +1,16 @@
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Greetingtest.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Greetingtest.pdb
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Repository.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Repository.pdb
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\obj\Debug\Greetingtest.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\obj\Debug\Greetingtest.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\obj\Debug\Greetingtest.csproj.CopyComplete
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\obj\Debug\Greetingtest.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Greetingtest\obj\Debug\Greetingtest.pdb

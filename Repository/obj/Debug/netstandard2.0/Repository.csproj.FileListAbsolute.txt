@@ -1,0 +1,8 @@
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\Ethan\source\repos\KomodoGreedings\Repository\obj\Debug\netstandard2.0\Repository.pdb
